@@ -1,0 +1,33 @@
+.w-100 {
+    width: 100%!important;
+    height: 700px;
+    
+}
+
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: xx-large;
+    font-style: oblique;
+    color: floralwhite;
+    font-weight: bolder;
+}
+.h5, h5 {
+    font-size: 2.25rem;
+    color:orange;
+    font-weight: bolder;
+}
+
+img, svg {
+    vertical-align: middle;
+
+    height: 644px;
+}
+.mtt {
+    
+    
+    height: 641px;
+    overflow: scroll;
+    
+}
